@@ -16,6 +16,9 @@ The website is divided into 3 panels.
 -Student can show his info.
 
 # Instructor Panel
--Instructor can login then he can upload video and select its type (lecture – section - lab), title and course.                           -Instructor can show all videos.                                                                                                          -Instructor can remove videos.                                                                                                              
+-Instructor can login then he can upload video and select its type (lecture – section - lab), title and course.                          
+-Instructor can show all videos.                                                                                                          
+-Instructor can remove videos.                                                                                                              
 # Technologies used 
-HTML, CSS, JS, PHP, Laravel, MYSQL (relational and large database).                                                                       I put in consideration SQL injection and XSS attacks.
+HTML, CSS, JS, PHP, Laravel, MYSQL (relational and large database).                                                                       
+I put in consideration SQL injection and XSS attacks.
